@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ForVlados</string>
+    <string name="ButtonRandomText">Random</string>
+    <string name="ButtonCountText">Count</string>
+    <string name="ButtonToastText">ToAst</string>
+    <string name="MainText">0</string>
+    <string name="RandText">Rand</string>
+    <string name="TitleTextRand">Это случайное число между 0 и %1d</string>
+</resources>
