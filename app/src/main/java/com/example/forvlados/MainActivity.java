@@ -24,7 +24,6 @@ public class MainActivity extends AppCompatActivity {
     {
         TextView ShowText = findViewById(R.id.textView);
         counter++;
-        //String str = getString(counter);
         ShowText.setText(counter.toString());
     }
     public  static  String TOTAL_COUNT = "total_count";
